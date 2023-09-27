@@ -1,15 +1,9 @@
 # whatsapp
 
 A new Flutter project.
+![Screenshot_1695828025](https://github.com/pratikpatrimath/whatsappuiclone/assets/75774769/bf314b2b-84d4-4449-935d-e49242f9696c)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
